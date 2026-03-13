@@ -1,6 +1,6 @@
-# 📌 Bank Customer Churn Prediction using Support Vector Machine (SVM)
+# Bank Customer Churn Prediction using Support Vector Machine (SVM)
 
-## 📖 Project Overview
+## Project Overview
 
 This project builds a Machine Learning model to predict whether a bank customer will churn (leave the bank) or not.
 
@@ -15,7 +15,7 @@ The complete ML pipeline includes:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Dataset:** Bank Churn Modelling Dataset  
 **Source:** YBI Foundation GitHub Repository  
@@ -35,7 +35,7 @@ The complete ML pipeline includes:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python 3.12
 - Pandas
@@ -47,9 +47,9 @@ The complete ML pipeline includes:
 
 ---
 
-## ⚙️ Project Workflow
+## Project Workflow
 
-### 1️⃣ Data Preprocessing
+### Data Preprocessing
 
 - Checked and removed duplicate Customer IDs
 - Encoded categorical variables:
@@ -61,7 +61,7 @@ The complete ML pipeline includes:
 
 ---
 
-### 2️⃣ Handling Imbalanced Data
+### Handling Imbalanced Data
 
 Since the dataset is imbalanced, three approaches were tested:
 
